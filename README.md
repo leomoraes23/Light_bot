@@ -1,2 +1,0 @@
-# Light_bot
-BOT LIGHT SERVER
